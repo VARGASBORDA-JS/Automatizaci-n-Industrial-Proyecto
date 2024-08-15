@@ -1,0 +1,65 @@
+<OnlineDevices>
+  <OnlineDevice VendorID="2A" DeviceID="513" TypeID="2A0513" DeviceType="SINAMICS G120 CU250S-2 V" IsInSameSubnetAsOwnPgPc="True">
+    <DeviceRole>Device</DeviceRole>
+    <OrderNumber>6SL3 246-0BA22-1FA0</OrderNumber>
+    <NameOfStation>drivexb14fe3</NameOfStation>
+    <MacAddress>68-3E-02-04-35-C8</MacAddress>
+    <IPAddress>192.168.1.3</IPAddress>
+    <SubnetMask>255.255.255.0</SubnetMask>
+    <RevisionPrefix>V</RevisionPrefix>
+    <RevisionVersionMajor>4</RevisionVersionMajor>
+    <RevisionVersionMinor>71</RevisionVersionMinor>
+    <Modules>
+      <Module VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+        <ModuleType>PossibleHeadModule</ModuleType>
+        <ModuleIdentNumber>132105</ModuleIdentNumber>
+        <SlotNumber>0</SlotNumber>
+        <OrderNumber>6SL3 246-0BA22-1FA0</OrderNumber>
+        <RevisionPrefix>V</RevisionPrefix>
+        <RevisionVersionMajor>4</RevisionVersionMajor>
+        <RevisionVersionMinor>71</RevisionVersionMinor>
+        <SubModules>
+          <SubModule VendorID="2A" DeviceID="0" TypeID="2A0000" DeviceType="">
+            <ModuleType>Submodule</ModuleType>
+            <SubModuleIdentNumber>2</SubModuleIdentNumber>
+            <SubSlotNumber>1</SubSlotNumber>
+            <OrderNumber>6SL3 246-0BA22-1FA0</OrderNumber>
+            <RevisionPrefix>V</RevisionPrefix>
+            <RevisionVersionMajor>4</RevisionVersionMajor>
+            <RevisionVersionMinor>71</RevisionVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <ModuleType>InterfaceSubmodule</ModuleType>
+            <SubModuleIdentNumber>3</SubModuleIdentNumber>
+            <SubSlotNumber>32768</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <RevisionVersionMajor>0</RevisionVersionMajor>
+            <RevisionVersionMinor>0</RevisionVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <ModuleType>PortSubmodule</ModuleType>
+            <SubModuleIdentNumber>4</SubModuleIdentNumber>
+            <SubSlotNumber>32769</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <RevisionVersionMajor>0</RevisionVersionMajor>
+            <RevisionVersionMinor>0</RevisionVersionMinor>
+          </SubModule>
+          <SubModule VendorID="0" DeviceID="0" TypeID="0" DeviceType="">
+            <ModuleType>PortSubmodule</ModuleType>
+            <SubModuleIdentNumber>5</SubModuleIdentNumber>
+            <SubSlotNumber>32770</SubSlotNumber>
+            <OrderNumber>
+            </OrderNumber>
+            <RevisionPrefix>0</RevisionPrefix>
+            <RevisionVersionMajor>0</RevisionVersionMajor>
+            <RevisionVersionMinor>0</RevisionVersionMinor>
+          </SubModule>
+        </SubModules>
+      </Module>
+    </Modules>
+  </OnlineDevice>
+</OnlineDevices>
